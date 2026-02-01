@@ -7,6 +7,7 @@ Right now, most of my experience is with working with web technologies like Reac
 - C++
 - Python
 - JS/TS
+- C#
 #### ⚙️ Frameworks/Technologies:
 - React
 - React Native/Expo
@@ -14,6 +15,7 @@ Right now, most of my experience is with working with web technologies like Reac
 - Docker / Docker Compose
 - PostgreSQL
 - Express.js
+- .NET Core
 #### 📝 Notable Projects
 - [KirbyOTD 📆🪄](https://github.com/stevenld165/kirbyotd-react):
   - A React webapp that displays a new Kirby copy ability for each day
