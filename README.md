@@ -18,7 +18,7 @@ Right now, most of my experience is with working with web technologies like Reac
 - Express.js
 - .NET Core
 #### 📝 Notable Projects
-- [Randomio v2 🎲]([https://github.com/stevenld165/randomio-webapp](https://github.com/stevenld165/randomio-v2)):
+- [Randomio v2 🎲](https://github.com/stevenld165/randomio-v2):
   - Webapp created as a personal project
   - Allows users to create accounts and generate a random episode from list of TV shows editable by the user
   - Opens generated episodes in Stremio directly using `stremio://` links
