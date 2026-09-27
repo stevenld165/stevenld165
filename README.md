@@ -9,6 +9,7 @@ Right now, most of my experience is with working with web technologies like Reac
 - JS/TS
 - C#
 #### ⚙️ Frameworks/Technologies:
+- Vue / Nuxt
 - React
 - React Native/Expo
 - Firebase
@@ -17,6 +18,10 @@ Right now, most of my experience is with working with web technologies like Reac
 - Express.js
 - .NET Core
 #### 📝 Notable Projects
+- [Randomio v2 🎲]([https://github.com/stevenld165/randomio-webapp](https://github.com/stevenld165/randomio-v2)):
+  - Webapp created as a personal project
+  - Allows users to create accounts and generate a random episode from list of TV shows editable by the user
+  - Opens generated episodes in Stremio directly using `stremio://` links
 - [KirbyOTD 📆🪄](https://github.com/stevenld165/kirbyotd-react):
   - A React webapp that displays a new Kirby copy ability for each day
   - Developed a REST backend API that communicates with a PostgreSQL server
@@ -25,7 +30,4 @@ Right now, most of my experience is with working with web technologies like Reac
   - A website made on a team for SE3354, Software Engineering
   - Designed for students of UTD to view software tools for courses related to Computer Science/Software Engineering courses
   - Implemented Firebase integration and prototyped database architecture
-- [Randomio 🎲](https://github.com/stevenld165/randomio-webapp):
-  - Webapp created as a personal project
-  - Allows users to generate a random episode from an uploaded list of TV shows
-  - Opens generated episodes in Stremio directly using `stremio://` links
+
